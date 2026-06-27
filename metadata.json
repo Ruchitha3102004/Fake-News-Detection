@@ -1,0 +1,5 @@
+{
+  "name": "Veritas - Hybrid Fake News Detection",
+  "description": "A sophisticated fake news detection system simulating a hybrid Deep Learning architecture (DCNN + BERT). Uses Gemini for semantic analysis while visualizing the architectural processing steps.",
+  "requestFramePermissions": []
+}
